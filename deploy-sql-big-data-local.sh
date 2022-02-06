@@ -4,7 +4,7 @@
 allowed_commands=["help","check_dependencies","create_cluster"]
 
 #Cluster and project name
-CLUSTER_NAME="bdcsql"
+CLUSTER_NAME="udsd-mssqlcluster-pilot"
 
 #Cluster connection settings
 CLUSTER_TYPE="openshift-prod"	#openshift-prod or openshift-dev-test
